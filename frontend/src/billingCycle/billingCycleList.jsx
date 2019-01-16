@@ -37,7 +37,7 @@ class BillingCycleList extends Component {
                             <th>Nome</th>
                             <th>Mes</th>
                             <th>Ano</th>
-                            <th>Ações</th>
+                            <th className='table-actions'>Ações</th>
                         </tr>
                     </thead>
                     <tbody>
